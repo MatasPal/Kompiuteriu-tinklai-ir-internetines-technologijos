@@ -1,0 +1,9 @@
+1. Privaloma užduotis, tuomet kitos dvi užduotys bus papildomos po 2.5 balo
+Pakeisti lab. darbo metu sukurtą esamą lokalų sertifikatą local.crt svetainei local.ssl.lab nauju, išduotu CA tarnybos. Galiojimo trukmė 3 dienos. (maks. balui lokalaus sertifikato informacija turi išlikti sena ARBA jeigu generuosite naują lokalų sertifikatą, prieš pradėdami užduotį perspėkite dėstytoją).
+
+2. Papildoma užduotis 2.5 balo:
+
+Pagal lab. d. metodiką parašyti  webservisus ir vartotojo aplikaciją DB pvz esančios lentelės automobiliai turiniui parodyti ekrane, papildyti naujais įrašais ir atvaizduoti json formatu naršyklėje.
+
+3. Privaloma užduotis, tuomet kitos dvi užduotys bus papildomos po 2.5 balo
+Sukurti su 4096 bitų ilgio raktu (key) lokalų sertifikatą pavadinimu Pvardas.crt svetainei pvardas.lab (pvardas turi būti Jūsų pavardės ir vardo raidės), kuris galiotų 299 dienas. Rezultate turi būti pakeista, kad svetainė atsidarytų šiuo adresu:  https://pvardas.lab
